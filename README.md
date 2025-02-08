@@ -1,6 +1,6 @@
 # Marcel Britto
 
-### Formado em **Processamento de Dados pela PUC-RJ** e cursando **MBA em Liderança, Gestão de Equipes e Produtividade na PUC-RS**.
+### Formado em **Processamento de Dados pela PUC-RJ** e com **MBA em Liderança, Gestão de Equipes e Produtividade na PUC-RS**.
 ### Sou desenvolvedor **Java Backend**.
 
 
